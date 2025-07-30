@@ -1,12 +1,31 @@
-# React + Vite
+# 📊 Dashboard de Dados
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um *Dashboard interativo* construído com *React + Vite* e *Chart.js*.  
+Ele exibe gráficos de barras, linhas e pizza com dados fictícios para simular relatórios de vendas e acessos.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Acesse o site
 
-## Expanding the ESLint configuration
+👉 [*Clique aqui para acessar o Dashboard*](https://joseeduardo77.github.io/dashboard/)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙ Funcionalidades
+
+- *Gráfico de barras* mostrando vendas mensais  
+- *Gráfico de linhas* com acessos ao site  
+- *Gráfico de pizza* com dispositivos de acesso  
+- Layout responsivo com cards e grid  
+
+---
+
+## 🛠 Tecnologias usadas
+
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Chart.js](https://www.chartjs.org/)
+- [react-chartjs-2](https://react-chartjs-2.js.org/)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+---
