@@ -7,7 +7,7 @@ Ele exibe gráficos de barras, linhas e pizza com dados fictícios para simular 
 
 ## 🚀 Acesse o site
 
-👉 [*Clique aqui para acessar o Dashboard*](https://joseeduardo77.github.io/dashboard/)  
+👉 [*Clique aqui para acessar o Dashboard*](https://joseeduardo77.github.io/Dashboard/)  
 
 ---
 
